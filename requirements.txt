@@ -1,0 +1,5 @@
+flytekit>=1.2.7
+pandas
+torch
+diffusers[torch]
+transformers[torch]
